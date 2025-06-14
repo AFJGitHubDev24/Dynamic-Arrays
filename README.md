@@ -1,4 +1,4 @@
-### DYNAMIC ARRAYS
+# DYNAMIC ARRAYS
 A dynamic array, also known as a resizable array or growable array, is a data structure that allows you to add or remove elements at runtime, unlike static arrays that have a fixed size determined at declaration. They overcome the limitations of static arrays by providing the ability to dynamically resize their capacity as needed during program execution.
 
 # Featureas of Dynamic Arrays
